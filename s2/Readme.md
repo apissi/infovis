@@ -13,6 +13,6 @@ MARTES
 JUEVES
 
 * Observable (link directo) - Histogramas: [Código Observable](https://observablehq.com/d/c33a108231696a9e) 
-* Gráficos (Histograma - Tickplot - Lineplot - Área segmentado) : [Gráficos](https://apissi.github.io/infovis/s2/histograma.html) 
+* Gráficos (Histograma - Tickplot - Lineplot - Área segmentado) : [Gráficos] <!-- (https://apissi.github.io/infovis/s2/histograma.html) --> 
 
 
