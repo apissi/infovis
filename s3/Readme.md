@@ -4,7 +4,7 @@
 MARTES:
 
 * DataSet W46: [Cocaine & Heroin Prices (1990-2020)](https://download.data.world/s/ux6pwolf474p3nlqoqhkyssim36itj)
-* Tableau: [Tableau]  (https://apissi.github.io/infovis/s3/tableausem3.html)
+* Tableau: [Tableau](https://apissi.github.io/infovis/s3/tableausem3.html)
 
 JUEVES:
 
