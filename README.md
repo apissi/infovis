@@ -1,9 +1,8 @@
-# infovis
+<H1 style="color:#FFA500"> infovis </H1>
 
 Repositorio ITBA - CABD - Visualización de la Información
 
-<h1 style="color:#FFA500"> Profesor: Ariel Aizemberg </h1>
-<!-- No está tomando el cambio de color -->
+<h4 style="color:#FFA500"> Profesor: Ariel Aizemberg </h4>
 
 Alumno:   Alejandro Pissi
 
