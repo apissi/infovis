@@ -5,4 +5,4 @@
 * [Ejemplo Tableau]<!--(https://erodera.github.io/infovis/s1/tableau.html)-->
 * [Otro Ejemplo Tableau]<!--(https://erodera.github.io/infovis/s1/tableauv2.html)-->
 * [Ejemplo RAWGraphs](https://apissi.github.io/infovis/s1/rawgraph.html)
-* [Ejemplo Observable]<!--(https://erodera.github.io/infovis/s1/Observable.html)-->
+* [Ejemplo Observable](https://apissi.github.io/infovis/s1/observable.html)
