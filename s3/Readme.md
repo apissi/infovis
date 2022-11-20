@@ -1,5 +1,5 @@
 
-Ejercicios Semana 3 de Alejandro Pissi
+<h2 style="color:#FFA500"> Ejercicios Semana 3 de Alejandro Pissi </h2>
 
 * [Hola Mundo](https://apissi.github.io/infovis/s1/holamundo.html)
 * [Ejemplo Tableau]<!--(https://erodera.github.io/infovis/s1/tableau.html)-->
