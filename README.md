@@ -1,6 +1,6 @@
 # infovis
 
-Repositorio ITBA - CABD - Visualización de la Información
+<h1 style="color:#FFA500"> Repositorio ITBA - CABD - Visualización de la Información <h1>
 
 Profesor: Ariel Aizemberg
 
