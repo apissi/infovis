@@ -8,7 +8,7 @@ MARTES
 * DataSet Modificado: [Query Data Set](https://download.data.world/s/qqpxokmuokhecw2a64aik4q5jpdeov)
 * Tableau Public (link Directo) - Gráfico de líneas: [Tableau Public W45]<!--(https://public.tableau.com/app/profile/laura1716/viz/Semana2_16680960800440/LineChart?publish=yes)--> 
 * Tableau HTML - Gráfico de líneas: [Tableau Github](https://apissi.github.io/infovis/s2/tableau.html) 
-* Observable (link directo): [Código Observable]<!--(https://observablehq.com/d/80b2d7971d3bae33)--> 
+* Observable (link directo): [Código Observable](https://observablehq.com/d/f5cb746c19471f80)
 
 JUEVES
 
