@@ -1,8 +1,10 @@
-<H1 style="color:#FFA500"> Repositorio ITBA - CABD - Visualización de la Información </h4>
+# infovis
 
-<h4> Profesor: Ariel Aizemberg </h4>
+Repositorio ITBA - CABD - Visualización de la Información
 
-<h4 style="color:#FFA500"> Alumno:   Alejandro Pissi </h4>
+Profesor: Ariel Aizemberg
+
+Alumno:   Alejandro Pissi
 
 Ejercicios del Alumno:
 
