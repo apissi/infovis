@@ -9,9 +9,7 @@ MARTES
 * Tableau Public (link Directo) - Gráfico de líneas: [Tableau Public W45](https://public.tableau.com/app/profile/apissi/viz/Semana1_16690834372960/Barras?publish=yes)
 
 <!--(https://public.tableau.com/app/profile/laura1716/viz/Semana2_16680960800440/LineChart?publish=yes)--> 
-https://public.tableau.com/views/Semana1_16690834372960/Barras?:language=es-ES&:display_count=n&:origin=viz_share_link
-
-
+<!--(https://public.tableau.com/views/Semana1_16690834372960/Barras?:language=es-ES&:display_count=n&:origin=viz_share_link)--> 
 <!-- (https://public.tableau.com/app/profile/apissi/viz/Semana1_16690834372960/Barras) -->
 
 * Tableau HTML - Gráfico de líneas: [Tableau Github](https://apissi.github.io/infovis/s2/tableausem2.html) 
