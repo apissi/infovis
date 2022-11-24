@@ -1,6 +1,6 @@
 
 <h2 style="color:#FFA500"> Ejercicios Semana 4 de Alejandro Pissi </h2>
 
-* [Hola Mundo](https://apissi.github.io/infovis/s1/holamundo.html)
+* [Evaluación Comparativa de Gastos Personales - Últimos 10 años](https://apissi.github.io/infovis/s4/tableausem4.html)
 
 
