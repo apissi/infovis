@@ -16,3 +16,6 @@ JUEVES
 * Gráficos (Histograma - Tickplot - Lineplot - Área segmentado) : [Gráficos](https://apissi.github.io/infovis/s2/histograma.html)
 
 
+TRABAJO RECUPERATORIO
+
+* Tableau Public (link Directo) - Gráfico de líneas: [Tableau Public W45](https://public.tableau.com/app/profile/apissi/viz/Semana1_16690834372960/Barras?publish=yes)
