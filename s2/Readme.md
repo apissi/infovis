@@ -6,7 +6,7 @@ MARTES
 
 * DataSet Week 45 - Who do we spend time with across our lifetimes?: [DataSetW45](https://download.data.world/s/d3s64gqkc3wljvlhb3r6anifsdecco)
 * DataSet Modificado: [Query Data Set](https://download.data.world/s/qqpxokmuokhecw2a64aik4q5jpdeov)
-* Tableau Public (link Directo) - Gráfico de líneas: [Tableau Public W45](https://public.tableau.com/app/profile/apissi/viz/Semana1_16690834372960/Barras?publish=yes)
+* Tableau Public (link Directo) - Gráfico de líneas: [Tableau Public W45](https://public.tableau.com/views/Semana2_16758252877440/Hoja1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 * Tableau HTML - Gráfico de líneas: [Tableau Github](https://apissi.github.io/infovis/s2/tableausem2.html) 
 * Observable (link directo): [Código Observable](https://observablehq.com/d/f5cb746c19471f80)
 
@@ -18,4 +18,4 @@ JUEVES
 
 TRABAJO RECUPERATORIO
 
-* Tableau Public (link Directo) - Gráfico de líneas: [Tableau Public W45](https://public.tableau.com/app/profile/apissi/viz/Semana1_16690834372960/Barras?publish=yes)
+* Tableau Public (link Directo) - Gráfico de líneas: [Tableau Public W45](https://apissi.github.io/infovis/s2/tableau_trabajo_recuperatorio.html)
