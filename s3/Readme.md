@@ -16,5 +16,5 @@ JUEVES:
 
 TRABAJO RECUPERATORIO
 
-* Tableau Public (Visualizaciones): [Tableau Public W46 - 2022](https://apissi.github.io/infovis/s2/tableau_trabajo_recuperatorio.html)
+* Tableau Public (Visualizaciones): [Tableau Public W46 - 2022](https://apissi.github.io/infovis/s3/tableau_trabajo_recuperatorio.html)
 * Tableau Public (link Directo): [TR Semana 3 - apissi](https://public.tableau.com/views/Semana3_16759067438360/3ClusterCocana?:language=es-ES&:display_count=n&:origin=viz_share_link)
