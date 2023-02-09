@@ -10,3 +10,10 @@ JUEVES:
 
 * DataSet Covid19 - Archivo histórico de casos registrados desde el 01/03/2020 hasta el 04/06/2022 - Ministerio de Salud: [Covid19-MSN](https://sisa.msal.gov.ar/datos/descargas/covid-19/files/Covid19Casos.zip)
 * Python: [Python](https://drive.google.com/file/d/18RDV_ODIWQpCQFa2Yctg7jap-5cEwH36/view?usp=sharing)
+
+
+
+
+TRABAJO RECUPERATORIO
+
+* Tableau Public (link Directo): [Tableau Public W45](https://apissi.github.io/infovis/s2/tableau_trabajo_recuperatorio.html)
